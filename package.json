@@ -1,0 +1,28 @@
+{
+    "name": "blogapp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "dev": "nodemon app.js",
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ruruthealien/codsoft-BlogApp.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "Apache-2.0",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/ruruthealien/codsoft-BlogApp/issues"
+    },
+    "homepage": "https://github.com/ruruthealien/codsoft-BlogApp#readme",
+    "dependencies": {
+        "express": "^5.1.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.10"
+    }
+}
